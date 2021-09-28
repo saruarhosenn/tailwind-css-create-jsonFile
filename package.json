@@ -1,0 +1,29 @@
+{
+  "name": "my-server",
+  "version": "1.0.0",
+  "description": "An express application",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "author": "Jon Church",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osiolabs/heynode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/osiolabs/heynode/issues"
+  },
+  "homepage": "https://github.com/osiolabs/heynode#readme",
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.5.10"
+  }
+}
